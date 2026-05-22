@@ -309,19 +309,6 @@ IoT-Botnet-Attack-Simulation-and-Detection-System/
 └── README.md
 ```
 
----
-
-## 🤝 Contributing
-
-1. Fork the repository.
-2. Create a feature branch: `git checkout -b feature/your-feature`
-3. Commit your changes: `git commit -m "Add your feature"`
-4. Push and open a Pull Request.
-
-Please follow the existing code style and include comments for any new detection logic.
-
----
-
 ## ⚠️ Disclaimer
 
 This project is intended solely for **educational and research purposes** in controlled, isolated lab environments. Simulating network attacks against systems you do not own or do not have explicit written permission to test is **illegal** under the Computer Fraud and Abuse Act (CFAA), the Computer Misuse Act, and equivalent laws worldwide.
